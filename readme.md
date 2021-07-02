@@ -1,5 +1,7 @@
-[TUTORIAL-API-NODEJS]
-- Créer le projet : tutorial-api-nodejs
+**TUTORIAL-API-NODEJS**
+=======================
+
+### Créer le projet : tutorial-api-nodejs
 - Commande : `nmp init`
 - Commande : `npm install express sequelize mysql2 cors --save`
 - Structure du dossier :
